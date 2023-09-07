@@ -1,0 +1,37 @@
+.botones{
+  display: flex;
+  flex-direction: column; 
+  max-width: 200px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.search{
+    margin: 20px;
+  
+    border-radius: 15px;
+    background-color: rgba(0, 255, 255, 0.262);
+    color: grey;
+    border-color: grey;
+    padding: 3px;
+}
+
+.mas{
+    width: 40px;
+    height: 40px;
+    margin: 20px;
+    border-radius: 50%;
+    color: white;
+    background-color: rgba(128, 128, 128, 0.551);
+    border: 0px;
+    font-size: 25px;
+}
+
+
+.count{
+    background-color: rgb(50, 50, 249);
+    width: 200px;
+    height: 40px;
+    color: white;
+    box-shadow: 5px 5px 1px black;
+}
