@@ -4,7 +4,7 @@
     <li> git add .</li>
     <li> git commit -m "mensaje"</li>
     <li> Ir a github y crear repositori ovacio</li>
-    <li> git add remote origin url del git</li>
+    <li> git  remote add origin url del git</li>
     <li> git push -u origin main</li>
 
    
