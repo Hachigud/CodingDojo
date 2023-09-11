@@ -1,0 +1,44 @@
+body {
+    background-color: silver;
+}
+
+.container {
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+
+    width: 1000px;
+}
+
+.uno {
+    background-color: aqua;
+    margin: 15px;
+    display: flex;
+    justify-content: space-around;
+    height: 250px;
+    align-items: center;
+
+}
+
+.dos {
+    background-color: palevioletred;
+    margin: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    height: 250px;
+    align-items: center;
+}
+
+.tres {
+    background-color: white;
+    margin: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    height: 250px;
+    align-items: center;
+}
+
+.octocat {
+    height: 200px;
+}
