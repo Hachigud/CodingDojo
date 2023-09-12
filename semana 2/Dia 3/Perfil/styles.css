@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+   
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav{
+    background-color: rgb(63, 63, 63);
+    display: flex;
+    align-items: center;
+    height: 80px;
+    justify-content: space-around;
+}
+
+.nav-title{
+    margin-left: 20px;
+    color: white;
+    
+}
+
+.nav-links{
+    display: flex;
+    text-decoration: none;    
+    align-items: center;
+    list-style: none; 
+   
+}
+
+
+.nav-links a{
+ 
+    color: white;
+    text-decoration: none;
+    align-items: self-start;
+  
+}
+
+
+.nav-links li{
+   
+    margin-right: 20px;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    color: white;
+    border: 3px;
+    background-color: rgb(8, 163, 163);
+    box-shadow: 3px 3px 3px 3px black;
+    justify-self: right;
+}
+
+
+
+
+
+
+.encabezado{
+    background-color: rgb(2, 179, 179);
+    height: 100px;
+    position: relative;
+}
+
+.usuario{
+    position: absolute;
+    width: 70px;
+    top: 55px;
+    left:20px;
+    border-radius: 50%;
+    padding: 2px;
+    border-style: solid;
+    border-color: rgb(220, 219, 219);
+    border-width: 2px;
+}
+
+.cuerpo{
+    padding: 25px;
+    border:1px solid rgb(152, 151, 151);
+}
+
+.tarjeta{
+    border:2px solid rgb(152, 151, 151);
+    max-width: 500px;
+    margin: 20px;
+}
+
+.iconos{
+
+    width: 13px;
+    margin-right: 10px;
+}
+
+.edicion{
+    margin-top: 10px;
+}
+
+.contenido{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+}
+
+.izquierda{
+    display: flex;
+    flex-direction: column;
+}
+
+.derecha{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.encabezado2{
+    background-color: rgb(51, 51, 51);
+    color: white;
+    height: auto;
+    
+}
+
+.encabezado2 h4{
+   padding: 8px;
+}
+.cuerpoEducation {
+    margin: 5px;
+    padding: 5px;
+}
+.cuerpoEducation div{
+    margin: 5px;
+    padding: 5px;
+}
+
+#educationfecha{
+    color: gray;
+}
+
+#negrita{
+    font-weight: bolder;
+}
+
+.tarjetadere{
+    margin: 20px;
+    border: 2px solid rgb(152, 151, 151);
+    width:300px;
+    position: relative;
+}
+.encabezado2 h4{
+    padding: 20px;
+}
+
+#dos{
+    position: absolute;
+    left: 15px;
+    z-index: 1;
+    color: black;
+}
+
+.circulo{
+    border-radius: 50%;
+    color: black;
+    height: 25px;
+    width: 25px;
+    background-color: gray;
+    margin: 15px;
+    position: absolute;
+    bottom:165px;
+    left: -8px;
+    
+}
+
+.conexiones{
+    display: flex;
+    flex-direction: column;
+}
+
+.imgperfil{
+    margin-top: 5px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+   
+    padding: 2px;
+    border-style: solid;
+    border-color: rgb(220, 219, 219);
+    border-width: 2px;
+}
+
+.iconoConec{
+    height: 40px;
+    width: 40px;
+}
+
+.conexiones div{
+    align-items: center;
+}
+
+.contenidoConexiones{
+  display: flex;
+  justify-content: space-between;
+ 
+}
+
+#quinientos{
+    border-radius: 50%;
+    color: black;
+    height: 40px;
+    width: 40px;
+    background-color: gray;
+}
+
+.viewmore{
+    padding: 25px;
+    border:1px solid rgb(152, 151, 151);
+}
