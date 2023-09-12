@@ -1,0 +1,41 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.encabezado{
+    background-color: rgb(2, 179, 179);
+    height: 100px;
+    position: relative;
+}
+
+.usuario{
+    position: absolute;
+    width: 80px;
+    top: 50px;
+    left:20px;
+    border-radius: 50%;
+    padding: 2px;
+    border-style: solid;
+    border-color: rgb(220, 219, 219);
+    border-width: 2px;
+}
+
+.cuerpo{
+    padding: 25px;
+    border:1px solid rgb(152, 151, 151);
+}
+
+.tarjeta{
+    border:2px solid rgb(152, 151, 151);
+    max-width: 500px;
+}
+
+.iconos{
+
+    width: 13px;
+    margin-right: 10px;
+}
+
+.edicion{
+    margin-top: 10px;
+}
