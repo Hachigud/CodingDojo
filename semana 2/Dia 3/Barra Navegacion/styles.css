@@ -1,0 +1,46 @@
+*{
+    font-family: roboto;
+}
+
+.nav{
+    background-color: rgb(63, 63, 63);
+    display: flex;
+    align-items: center;
+   
+}
+
+.nav-title{
+    margin-left: 20px;
+    color: white;
+    flex: 1;
+}
+
+.nav-links{
+    display: flex;
+    text-decoration: none;    
+    align-items: center;
+    list-style: none;
+    
+    
+}
+
+
+.nav-links a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+.nav-links li{
+   
+    margin-right: 20px;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    color: white;
+    border: 3px;
+    background-color: rgb(8, 163, 163);
+    box-shadow: 3px 3px 3px 3px black;
+}
