@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <title>On Click</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+</head>
+
+<body>
+<nav>
+    <div class="nav">
+        <h1 class="nav-title">Dojonary</h1>
+        <ul class="nav-links">
+            
+            <li><input placeholder="Search"></li>
+           
+            <li><button class="btn" id="login" onclick="login(this)">Login</button></li>
+        </ul>
+    </div>
+</nav> 
+
+
+<div class="contenido">
+    <div class="izquierda">
+        <div class="tarjeta">
+          
+            <div class="cuerpo">
+                <h2>Ninja</h2>
+                <div class="contenido-tarjeta">
+                    <div class="contenido-izq">
+                        <span >noun</span>
+                        <span>Plural:Ninjas</span>
+                        <button class="like" onclick="ninjalike(this)">13 <span>Likes</span></button>
+                    </div>
+                    <div class="contenido-dere">
+                        <span>A practitioner skilled in the <a href> Japanese</a> art of <a href="#"> ninjutsu</a></a></span>
+                    </div>
+                </div>
+            </div>  
+        </div>
+
+
+        <div class="tarjeta">
+          
+            <div class="cuerpo">
+                <h2>Ninja</h2>
+                <div class="contenido-tarjeta">
+                    <div class="contenido-izq">
+                        <span>noun</span>
+                        <span>Plural:Ninjas</span>
+                        <button class="like" onclick="ninjalike(this)"> 37 <span>Likes</span></button>
+                    </div>
+                    <div class="contenido-dere">
+                        <span>A <a href="#"> progammer</a> who breaks down problems with <a href="#"> zen</a>-like focus</span>
+                    </div>
+                </div>
+            </div>  
+        </div>
+    </div>
+
+
+
+<div class="derecha">
+   <div class="tarjeta-dere">
+        
+        <div class="cuerpo">
+            <h2>Dojonary is defined by YOU</h2>
+            <div class="contenido-dere">
+                <button class="definition" onclick="definition(this)">Add definition</button>
+            </div>
+            
+        </div>
+    </div>
+
+
+</div>
+
+    
+</div>
+
+<script src="scripts.js"></script>
+</body>
+
+</html>
