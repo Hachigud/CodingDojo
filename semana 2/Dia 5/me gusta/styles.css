@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+  
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav{
+    background-color: rgb(63, 63, 63);
+    display: flex;
+    align-items: center;
+    height: 80px;
+    justify-content: start;
+}
+
+.nav-title{
+    margin-left: 20px;
+    color: white;
+    
+}
+
+#titulo{
+    display: flex;
+    justify-content: center;
+}
+
+
+.nav-links a{
+ 
+    color: white;
+    text-decoration: none;
+    align-items: self-start;
+  
+}
+
+
+.nav-links li{
+   
+    margin-right: 20px;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    color: white;
+    
+    background-color: rgb(8, 163, 163);
+    box-shadow: 3px 3px 3px 3px black;
+    justify-self: right;
+}
+
+
+
+
+.cuerpo{
+    padding: 25px;
+    border:1px solid rgb(152, 151, 151);
+}
+
+.tarjeta{
+    border:2px solid rgb(152, 151, 151);
+    max-width: 500px;
+    margin: 20px;
+}
+
+
+.contenido{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+}
+
+.izquierda{
+    display: flex;
+    flex-direction: column;
+}
+
+.derecha{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+.contenido-tarjeta{
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+    flex-direction: column;
+}
+
+.contenido-izq{
+    display: flex;
+    justify-content: space-around;
+}
+
+.contenido-izq h2{
+    flex: 1;
+}
+
+.contenido-izq >span{
+    margin-top: 8px;
+}
+
+.contenido-izq >button{
+    margin-top: 8px;
+}
+
+.contenido-dere{
+    align-self: center;
+    margin-left: 80px;
+   
+}
+
+.tarjeta-dere{
+    max-width: 250px;
+    max-height: 170px;
+    display: flex;  
+    justify-content: space-evenly; 
+}
+
+.cuerpo-dere{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    border:1px solid rgb(152, 151, 151);
+    justify-content: space-between;
+}
+
+
+.definition{
+    width: 150px;
+    background-color: #93C47D;
+    height: 30px;
+    box-shadow: 1px 1px 1px 1px;
+    
+}
+
+.like{
+   
+    background-color: #FFD966;
+    margin-left: 5px;
+    
+}
+
+
+.user{
+    
+    width: 70px;
+    border-radius: 50%;
+    padding: 2px;
+    border-style: solid;
+    border-color: rgb(220, 219, 219);
+    border-width: 2px;
+}
