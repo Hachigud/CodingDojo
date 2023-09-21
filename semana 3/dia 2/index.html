@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TiempoDojo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="nav">
+        <div class="flex-container">
+            <h1 class="nav-title">DojoWeather</h1>
+            <ul class="nav-links">
+                <li><a href="#" onclick="cityalert(this)" >Burbank</a></li>
+                <li><a href="#" onclick="cityalert(this)" >Chicago</a></li>
+                <li><a href="#" onclick="cityalert(this)" >Dallas</a></li>
+                
+            </ul>
+        </div>
+    </div>
+
+    <div class="superior">
+        <h1>San Jose</h1>
+        <div>
+            <label for="selector">show temperature in</label>
+            <select name="selector" id="selector" onchange="cambiar(this)">
+                <option value="c">°C</option>
+                <option value="f">°F</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="contenido">
+
+        <div class="card">
+            <div class="card-header">
+                <h3>Today</h3>
+            </div>
+            <div class="card-body">
+                <img class="img" src="assets/some_rain.png" alt="somerain">
+                <p>Some Rain</p>
+                <div class="datos">
+                    <div class="max">
+                        <span>24</span>°
+                    </div> 
+                    <div class="min">
+                        <span>18</span>°
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h3>Tomorrow</h3>
+            </div>
+            <div class="card-body">
+                <img class="img" src="assets/some_sun.png" alt="somesun">
+                <p>Some Sun</p>
+                <div class="datos">
+                    <div class="max">
+                        <span>27</span>°
+                    </div> 
+                    <div class="min">
+                        <span>19</span>°
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h3>Friday</h3>
+            </div>
+            <div class="card-body">
+                <img class="img" src="assets/some_clouds.png" alt="somecloud">
+                <p>Some Clouds</p>
+                <div class="datos">
+                    <div class="max">
+                        <span>21</span>°
+                    </div> 
+                    <div class="min">
+                        <span>16</span>°
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h3>Saturday</h3>
+            </div>
+            <div class="card-body">
+                <img class="img" src="assets/some_sun.png" alt="somesun">
+                <p>Some Sun</p>
+                <div class="datos">
+                    <div class="max">
+                        <span>26</span>°
+                    </div> 
+                    <div class="min">
+                        <span>21</span>°
+                    </div>
+                </div>
+            </div>
+        </div>   
+    </div>
+    
+    <div class="cookie-section">
+            
+            <img class="cookie-img" src="assets/cookie.png" alt="cookie">
+            <div class="cookie-body">
+            <h2>Stop Cookie time</h2>
+            <p>We use cookies (sadly not the edible ones) to personalize content and ads, to provide
+                social media features and to analyse our traffic. <a href="#">Read more ...</a>
+            </p>
+            </div>
+            <button class="button" onclick="ocultar(this)">I Accept</button>
+       
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+</html>
