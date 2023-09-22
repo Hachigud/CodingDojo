@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DeportesDojo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="nav-1">
+        <div class="flex-container">
+
+            <h1>Live Scores</h1>
+
+            <div class="equipos">
+                <span>SJC Ninjas - 314</span>
+                <span>NS Pirates - 159</span>
+            </div>
+
+            <div class="equipos">
+                <span>CHI Samurai - 0</span>
+                <span>TUL Wizards - 0</span>
+            </div>
+
+            <div class="equipos">
+                <span>BOS Hackers - 13</span>
+                <span>TYO Youkai - 37</span>
+            </div>
+
+            <div class="equipos">
+                <span>BOI Knights - 5</span>
+                <span>SEA Sea Lions - 11 </span>
+            </div>
+        </div>
+
+    </div>
+
+    <div class="nav-2">
+        <div class="flex-container">
+            <div class="nav-izq">
+
+                <h1 class="tittle">DSNN</h1>
+
+                <ul class="nav-links">
+                    <li><a href="#">Football</a></li>
+                    <li><a href="#">Basketball</a></li>
+                    <li><a href="#">Baseball</a></li>
+                    <li><a href="#">Soccer</a></li>
+                    <li><a href="#">More...</a></li>
+                </ul>
+            </div>
+
+            <div class="nav-dere">
+                <img class="icons" src="assets/search-light.png" alt="search">
+                <img class="icons" src="assets/hamburger-light.png" alt="menu">
+                <img class="icons" src="assets/user-circle-light.png" alt="user">
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <div class="contenido">
+        <div class="izq">
+            <div class="card-izq">
+                <div class="card-header">
+                    <h3>Top Stories</h3>
+                </div>
+                <div class="card-body">
+                    <p>Ninjas up big in 5th Best sports cities choi joins
+                        Hall of Fame tournament underway Samurai at Wizards...
+                    </p>
+                </div>
+            </div>
+
+            <div class="card-izq sub">
+
+                <h2>Customize your DSNN</h2>
+
+                <div class="card-body">
+                    <button class="btn in">Sign in</button>
+                    <button class="btn up">Sign Up</button>
+                </div>
+            </div>
+
+            <div class="card-izq sub" id="card-sub">
+
+                <h2>Never miss a play</h2>
+
+                <div class="card-body">
+
+                    <button class="btn subscribe" onclick="subscribir(this)">Subscribe</button>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="dere">
+
+            <div class="card-dere">
+                <div class="card-header">
+                    <ul>
+                        <li>Live</li>
+                    </ul>
+                    <h3>Ninjas Leading Pirates</h3>
+                </div>
+                <div class="card-body">
+                    <div class="equipos">
+                        <img class="imagen" src="assets/sjc-ninjas.png" alt="ninjas">
+                        <span>San Jose</span>
+                        <h3 id="ninjas">Ninjas</h3>
+                        <span class="wins">(10 W - 3L)</span>
+                        <span class="score" onclick="aumentarScore(this)" id="scoreNinjas">317</span>
+                    </div>
+
+                    <div class="vs">
+                        <h3>VS</h3>
+
+                        <span>0.13 Remaining 5th period</span>
+
+                    </div>
+
+                    <div class="equipos">
+                        <img class="imagen" src="assets/ns-pirates.png" alt="pirates">
+                        <span>Nova Scotia</span>
+                        <h3 id="pirates">Pirates</h3>
+                        <span class="wins">(12 W - 2L)</span>
+                        <span class="score" onclick="aumentarScore(this)" id="scorePirates">159</span>
+                    </div>
+                </div>
+
+                <div class="card-footer">
+                    <p>a conservative match between the two top-performing sides in the
+                        Central League Division with a number 1 seed at stake ... <a href="#">get live updates</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
