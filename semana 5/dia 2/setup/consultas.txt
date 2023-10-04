@@ -1,0 +1,5 @@
+INSERT INTO usuarios (username,password,email) VALUES ('rafael','12345','rafael@rafael.cl');
+SELECT * FROM usuarios WHERE username == 'rafael';
+
+UPDATE usuarios set EMAIL = 'rafael@gmail.com' WHERE username == 'rafael';
+DELETE FROM usuarios WHERE username == 'rafael';
