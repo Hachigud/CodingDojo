@@ -1,0 +1,15 @@
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 5\dia 5\Fundamentos\bin\Debug\net7.0\Fundamentos.exe
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 5\dia 5\Fundamentos\bin\Debug\net7.0\Fundamentos.deps.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 5\dia 5\Fundamentos\bin\Debug\net7.0\Fundamentos.runtimeconfig.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 5\dia 5\Fundamentos\bin\Debug\net7.0\Fundamentos.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 5\dia 5\Fundamentos\bin\Debug\net7.0\Fundamentos.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 5\dia 5\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.AssemblyReference.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 5\dia 5\Fundamentos\obj\Debug\net7.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 5\dia 5\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfoInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 5\dia 5\Fundamentos\obj\Debug\net7.0\Fundamentos.AssemblyInfo.cs
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 5\dia 5\Fundamentos\obj\Debug\net7.0\Fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 5\dia 5\Fundamentos\obj\Debug\net7.0\Fundamentos.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 5\dia 5\Fundamentos\obj\Debug\net7.0\refint\Fundamentos.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 5\dia 5\Fundamentos\obj\Debug\net7.0\Fundamentos.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 5\dia 5\Fundamentos\obj\Debug\net7.0\Fundamentos.genruntimeconfig.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 5\dia 5\Fundamentos\obj\Debug\net7.0\ref\Fundamentos.dll
