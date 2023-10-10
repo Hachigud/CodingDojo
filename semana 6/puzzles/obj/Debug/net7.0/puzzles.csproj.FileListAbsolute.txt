@@ -1,0 +1,15 @@
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\puzzles\obj\Debug\net7.0\puzzles.csproj.AssemblyReference.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\puzzles\obj\Debug\net7.0\puzzles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\puzzles\obj\Debug\net7.0\puzzles.AssemblyInfoInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\puzzles\obj\Debug\net7.0\puzzles.AssemblyInfo.cs
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\puzzles\obj\Debug\net7.0\puzzles.csproj.CoreCompileInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\puzzles\bin\Debug\net7.0\puzzles.exe
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\puzzles\bin\Debug\net7.0\puzzles.deps.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\puzzles\bin\Debug\net7.0\puzzles.runtimeconfig.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\puzzles\bin\Debug\net7.0\puzzles.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\puzzles\bin\Debug\net7.0\puzzles.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\puzzles\obj\Debug\net7.0\puzzles.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\puzzles\obj\Debug\net7.0\refint\puzzles.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\puzzles\obj\Debug\net7.0\puzzles.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\puzzles\obj\Debug\net7.0\puzzles.genruntimeconfig.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\puzzles\obj\Debug\net7.0\ref\puzzles.dll
