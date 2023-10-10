@@ -1,0 +1,15 @@
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\boxin\bin\Debug\net7.0\boxin.exe
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\boxin\bin\Debug\net7.0\boxin.deps.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\boxin\bin\Debug\net7.0\boxin.runtimeconfig.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\boxin\bin\Debug\net7.0\boxin.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\boxin\bin\Debug\net7.0\boxin.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\boxin\obj\Debug\net7.0\boxin.csproj.AssemblyReference.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\boxin\obj\Debug\net7.0\boxin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\boxin\obj\Debug\net7.0\boxin.AssemblyInfoInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\boxin\obj\Debug\net7.0\boxin.AssemblyInfo.cs
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\boxin\obj\Debug\net7.0\boxin.csproj.CoreCompileInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\boxin\obj\Debug\net7.0\boxin.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\boxin\obj\Debug\net7.0\refint\boxin.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\boxin\obj\Debug\net7.0\boxin.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\boxin\obj\Debug\net7.0\boxin.genruntimeconfig.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\boxin\obj\Debug\net7.0\ref\boxin.dll
