@@ -1,0 +1,15 @@
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\fundamentals\bin\Debug\net7.0\fundamentals.exe
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\fundamentals\bin\Debug\net7.0\fundamentals.deps.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\fundamentals\bin\Debug\net7.0\fundamentals.runtimeconfig.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\fundamentals\bin\Debug\net7.0\fundamentals.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\fundamentals\bin\Debug\net7.0\fundamentals.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\fundamentals\obj\Debug\net7.0\fundamentals.csproj.AssemblyReference.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\fundamentals\obj\Debug\net7.0\fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\fundamentals\obj\Debug\net7.0\fundamentals.AssemblyInfoInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\fundamentals\obj\Debug\net7.0\fundamentals.AssemblyInfo.cs
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\fundamentals\obj\Debug\net7.0\fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\fundamentals\obj\Debug\net7.0\fundamentals.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\fundamentals\obj\Debug\net7.0\refint\fundamentals.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\fundamentals\obj\Debug\net7.0\fundamentals.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\fundamentals\obj\Debug\net7.0\fundamentals.genruntimeconfig.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\fundamentals\obj\Debug\net7.0\ref\fundamentals.dll
