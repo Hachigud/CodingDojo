@@ -1,0 +1,15 @@
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Humano\obj\Debug\net7.0\Humano.csproj.AssemblyReference.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Humano\obj\Debug\net7.0\Humano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Humano\obj\Debug\net7.0\Humano.AssemblyInfoInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Humano\obj\Debug\net7.0\Humano.AssemblyInfo.cs
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Humano\obj\Debug\net7.0\Humano.csproj.CoreCompileInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Humano\bin\Debug\net7.0\Humano.exe
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Humano\bin\Debug\net7.0\Humano.deps.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Humano\bin\Debug\net7.0\Humano.runtimeconfig.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Humano\bin\Debug\net7.0\Humano.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Humano\bin\Debug\net7.0\Humano.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Humano\obj\Debug\net7.0\Humano.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Humano\obj\Debug\net7.0\refint\Humano.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Humano\obj\Debug\net7.0\Humano.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Humano\obj\Debug\net7.0\Humano.genruntimeconfig.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Humano\obj\Debug\net7.0\ref\Humano.dll
