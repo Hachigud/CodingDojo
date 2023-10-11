@@ -1,0 +1,15 @@
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\cartas\obj\Debug\net7.0\cartas.csproj.AssemblyReference.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\cartas\obj\Debug\net7.0\cartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\cartas\obj\Debug\net7.0\cartas.AssemblyInfoInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\cartas\obj\Debug\net7.0\cartas.AssemblyInfo.cs
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\cartas\obj\Debug\net7.0\cartas.csproj.CoreCompileInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\cartas\bin\Debug\net7.0\cartas.exe
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\cartas\bin\Debug\net7.0\cartas.deps.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\cartas\bin\Debug\net7.0\cartas.runtimeconfig.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\cartas\bin\Debug\net7.0\cartas.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\cartas\bin\Debug\net7.0\cartas.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\cartas\obj\Debug\net7.0\cartas.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\cartas\obj\Debug\net7.0\refint\cartas.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\cartas\obj\Debug\net7.0\cartas.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\cartas\obj\Debug\net7.0\cartas.genruntimeconfig.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\cartas\obj\Debug\net7.0\ref\cartas.dll
