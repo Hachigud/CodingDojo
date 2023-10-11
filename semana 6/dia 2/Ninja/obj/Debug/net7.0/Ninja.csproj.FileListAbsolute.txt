@@ -1,0 +1,15 @@
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Ninja\obj\Debug\net7.0\Ninja.csproj.AssemblyReference.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Ninja\obj\Debug\net7.0\Ninja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Ninja\obj\Debug\net7.0\Ninja.AssemblyInfoInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Ninja\obj\Debug\net7.0\Ninja.AssemblyInfo.cs
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Ninja\obj\Debug\net7.0\Ninja.csproj.CoreCompileInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Ninja\bin\Debug\net7.0\Ninja.exe
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Ninja\bin\Debug\net7.0\Ninja.deps.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Ninja\bin\Debug\net7.0\Ninja.runtimeconfig.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Ninja\bin\Debug\net7.0\Ninja.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Ninja\bin\Debug\net7.0\Ninja.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Ninja\obj\Debug\net7.0\Ninja.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Ninja\obj\Debug\net7.0\refint\Ninja.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Ninja\obj\Debug\net7.0\Ninja.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Ninja\obj\Debug\net7.0\Ninja.genruntimeconfig.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 2\Ninja\obj\Debug\net7.0\ref\Ninja.dll

@@ -57,6 +57,7 @@ class Human
     {
         target._Health -= (atacante._Strength * 3);
         Console.Write($"El jugador {atacante._Name} ataco a {target._Name} haciendo {atacante._Strength * 3} de daño!");
+
         return(target._Health);
     }
 
