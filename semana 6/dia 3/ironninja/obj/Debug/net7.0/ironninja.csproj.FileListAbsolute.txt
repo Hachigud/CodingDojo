@@ -1,0 +1,15 @@
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\ironninja\obj\Debug\net7.0\ironninja.csproj.AssemblyReference.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\ironninja\obj\Debug\net7.0\ironninja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\ironninja\obj\Debug\net7.0\ironninja.AssemblyInfoInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\ironninja\obj\Debug\net7.0\ironninja.AssemblyInfo.cs
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\ironninja\obj\Debug\net7.0\ironninja.csproj.CoreCompileInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\ironninja\bin\Debug\net7.0\ironninja.exe
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\ironninja\bin\Debug\net7.0\ironninja.deps.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\ironninja\bin\Debug\net7.0\ironninja.runtimeconfig.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\ironninja\bin\Debug\net7.0\ironninja.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\ironninja\bin\Debug\net7.0\ironninja.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\ironninja\obj\Debug\net7.0\ironninja.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\ironninja\obj\Debug\net7.0\refint\ironninja.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\ironninja\obj\Debug\net7.0\ironninja.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\ironninja\obj\Debug\net7.0\ironninja.genruntimeconfig.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\ironninja\obj\Debug\net7.0\ref\ironninja.dll
