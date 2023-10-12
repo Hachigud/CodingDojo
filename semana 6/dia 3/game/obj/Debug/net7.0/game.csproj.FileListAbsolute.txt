@@ -1,0 +1,15 @@
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\game\bin\Debug\net7.0\game.exe
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\game\bin\Debug\net7.0\game.deps.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\game\bin\Debug\net7.0\game.runtimeconfig.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\game\bin\Debug\net7.0\game.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\game\bin\Debug\net7.0\game.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\game\obj\Debug\net7.0\game.csproj.AssemblyReference.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\game\obj\Debug\net7.0\game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\game\obj\Debug\net7.0\game.AssemblyInfoInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\game\obj\Debug\net7.0\game.AssemblyInfo.cs
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\game\obj\Debug\net7.0\game.csproj.CoreCompileInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\game\obj\Debug\net7.0\game.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\game\obj\Debug\net7.0\refint\game.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\game\obj\Debug\net7.0\game.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\game\obj\Debug\net7.0\game.genruntimeconfig.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 6\dia 3\game\obj\Debug\net7.0\ref\game.dll
