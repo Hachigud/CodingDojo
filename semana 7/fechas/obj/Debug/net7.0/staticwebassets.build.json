@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "jpKl3stVWF1wPdyHoHqT9mnfPyz/uX6v/zgG/v4TeOo=",
+  "Source": "fechas",
+  "BasePath": "_content/fechas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "fechas\\wwwroot",
+      "Source": "fechas",
+      "ContentRoot": "C:\\Users\\Lionx\\Desktop\\Cosas\\cursos\\codingDojo\\bootcamp\\semana 7\\fechas\\wwwroot\\",
+      "BasePath": "_content/fechas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Lionx\\Desktop\\Cosas\\cursos\\codingDojo\\bootcamp\\semana 7\\fechas\\wwwroot\\css\\styles.css",
+      "SourceId": "fechas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lionx\\Desktop\\Cosas\\cursos\\codingDojo\\bootcamp\\semana 7\\fechas\\wwwroot\\",
+      "BasePath": "_content/fechas",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ]
+}

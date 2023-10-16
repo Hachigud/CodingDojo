@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="~/css/styles.css"/>  
+    <title>Fechas</title>
+</head>
+<body>
+    
+ 
+
+ <div class="Cuerpo">
+    <div class="fecha">
+        <h1>Start Time</h1>
+       <h3>@ViewBag.hoy</h3> 
+       <h2>@ViewBag.hoyFormat</h2>
+    </div>
+
+    <div class="fecha">
+        <h1>End Time</h1>
+        
+        <h3>@ViewBag.fin </h3>  
+        <h2>@ViewBag.finFormat</h2>  
+    </div>
+
+ </div>
+
+    
+
+    <div class="cuerpoFaltante">
+        <h1>Tiempo faltante</h1>
+        <h2>@ViewBag.diferencia.Days Dia(s), @ViewBag.diferencia.Hours Hora(s), @ViewBag.diferencia.Minutes Minuto(s) </h2>
+        <h3>Faltantes</h3>
+    </div>
+
+
+
+</body>
+</html>
