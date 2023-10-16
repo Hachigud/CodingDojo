@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+}
+
+
+.nav{
+    display: flex;
+    align-items: center;
+    height: 80px;
+    justify-content: center;
+}
+
+.nav-items{
+    display: flex;
+    align-items: center;
+    width: 30%;
+    justify-content: space-around;
+}
+
+.nav-items li{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+#projects{
+    border-right: 3px solid #000000;
+    border-left: 3px solid #000000;
+}
+
+.Cuerpo{
+    display: flex;
+    align-items: center;   
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Contenido-Cuerpo{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    margin-top: 40px;
+}
+
+#miFoto{
+    width: 250px;
+    height: 200px;
+}
+
+.Contenido-Izq {
+    text-align: center;
+}
+.Contenido-Dere{
+  width: 250px;
+  font-size: 20px;
+}
+
+.Contenido-Proyectos{
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+    overflow-y: scroll;
+}
+
+
+.listaProyectos{
+    display: flex;
+    flex-direction: column;
+}
+
+.contenidoListaProyectos{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+
+.imagenProyecto{
+    width: 150px;
+    
+}
+
+.formularioContacto{
+    display: flex;
+    flex-direction: column;
+    margin: 5px;
+}
+
+
+

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "3yYIFZNWRXFdGPM4Ng/EWIL/fvz7RjOE18BG8tZd/0M=",
+  "Source": "portafolio",
+  "BasePath": "_content/portafolio",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "portafolio\\wwwroot",
+      "Source": "portafolio",
+      "ContentRoot": "C:\\Users\\Lionx\\Desktop\\Cosas\\cursos\\codingDojo\\bootcamp\\semana 7\\portafolio\\wwwroot\\",
+      "BasePath": "_content/portafolio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Lionx\\Desktop\\Cosas\\cursos\\codingDojo\\bootcamp\\semana 7\\portafolio\\wwwroot\\css\\style.css",
+      "SourceId": "portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lionx\\Desktop\\Cosas\\cursos\\codingDojo\\bootcamp\\semana 7\\portafolio\\wwwroot\\",
+      "BasePath": "_content/portafolio",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Lionx\\Desktop\\Cosas\\cursos\\codingDojo\\bootcamp\\semana 7\\portafolio\\wwwroot\\img\\foto.jpg",
+      "SourceId": "portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lionx\\Desktop\\Cosas\\cursos\\codingDojo\\bootcamp\\semana 7\\portafolio\\wwwroot\\",
+      "BasePath": "_content/portafolio",
+      "RelativePath": "img/foto.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\foto.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Lionx\\Desktop\\Cosas\\cursos\\codingDojo\\bootcamp\\semana 7\\portafolio\\wwwroot\\img\\proyecto1.jpg",
+      "SourceId": "portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lionx\\Desktop\\Cosas\\cursos\\codingDojo\\bootcamp\\semana 7\\portafolio\\wwwroot\\",
+      "BasePath": "_content/portafolio",
+      "RelativePath": "img/proyecto1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\proyecto1.jpg"
+    }
+  ]
+}

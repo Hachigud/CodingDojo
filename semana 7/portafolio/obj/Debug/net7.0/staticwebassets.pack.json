@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lionx\\Desktop\\Cosas\\cursos\\codingDojo\\bootcamp\\semana 7\\portafolio\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Lionx\\Desktop\\Cosas\\cursos\\codingDojo\\bootcamp\\semana 7\\portafolio\\wwwroot\\img\\foto.jpg",
+      "PackagePath": "staticwebassets\\img\\foto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lionx\\Desktop\\Cosas\\cursos\\codingDojo\\bootcamp\\semana 7\\portafolio\\wwwroot\\img\\proyecto1.jpg",
+      "PackagePath": "staticwebassets\\img\\proyecto1.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.portafolio.props",
+      "PackagePath": "build\\portafolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.portafolio.props",
+      "PackagePath": "buildMultiTargeting\\portafolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.portafolio.props",
+      "PackagePath": "buildTransitive\\portafolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.portafolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
