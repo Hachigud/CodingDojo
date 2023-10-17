@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.Cuerpo{
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;   
+    justify-content: center;
+    flex-direction: column;
+    
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+    width: 40%;
+    height: 400px;
+}
+
+
+.form-group{
+    margin: 10px;
+}
+
+h3{
+    
+    text-align: center;
+}

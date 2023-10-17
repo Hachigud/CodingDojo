@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "THMZa+ZdVHzlI0TqoWMze8Jl/tUG15aZtsHzfWB18Kw=",
+  "Source": "formulario",
+  "BasePath": "_content/formulario",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "formulario\\wwwroot",
+      "Source": "formulario",
+      "ContentRoot": "C:\\Users\\Lionx\\Desktop\\Cosas\\cursos\\codingDojo\\bootcamp\\semana 7\\formulario\\wwwroot\\",
+      "BasePath": "_content/formulario",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Lionx\\Desktop\\Cosas\\cursos\\codingDojo\\bootcamp\\semana 7\\formulario\\wwwroot\\css\\styles.css",
+      "SourceId": "formulario",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lionx\\Desktop\\Cosas\\cursos\\codingDojo\\bootcamp\\semana 7\\formulario\\wwwroot\\",
+      "BasePath": "_content/formulario",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ]
+}
