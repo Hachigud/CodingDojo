@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Formulario";
+}
+
+   <div class="Cuerpo">
+        <form action="/formulario" method="post">
+            
+
+                
+                <h3>Formulario</h3>
+
+                
+                <div class="form-group">
+                    <label class="col-md-12 control-label" for="Nombre">Tu Nombre</label>
+                    <div class="col-md-12">
+                        <input id="Nombre" name="Nombre" type="text" placeholder="Tu Nombre"
+                            class="form-control input-md">
+
+                    </div>
+                </div>
+
+                
+                <div class="form-group">
+                    <label class="col-md-12 control-label" for="dojo">Dojo Location</label>
+                    <div class="col-md-12">
+                        <select id="Dojo" name="Dojo" class="form-control">
+                            <option value="Chile">Chile</option>
+                            <option value="Peru">Peru</option>
+                        </select>
+                    </div>
+                </div>
+
+               
+                <div class="form-group">
+                    <label class="col-md-12 control-label" for="lenguaje">Lenguaje Favorito</label>
+                    <div class="col-md-12">
+                        <select id="Lenguaje" name="Lenguaje" class="form-control">
+                            <option value="c#">C#</option>
+                            <option value="java">Java</option>
+                        </select>
+                    </div>
+                </div>
+
+                
+                <div class="form-group">
+                    <label class="col-md-12 control-label" for="comentario">Comentario ( Opcional)</label>
+                    <div class="col-md-12">
+                        <textarea class="form-control" id="Comentario"
+                            name="Comentario" placeholder="Ingresa aqui tu comentario"></textarea>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <button class="btn btn-primary" type="submit" value="submit">Enviar</button>
+                </div>
+            
+        </form>
+    </div>
