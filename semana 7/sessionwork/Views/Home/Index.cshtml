@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Usuario
+<div class="text-center" style="display: flex; flex-direction:column;">
+    <h1 class="display-4">Ingresa tu nombre</h1>
+    
+    <form action="/formulario" method="post">
+    <label asp-for="Nombre">Porfavor Ingresa tu nombre</label>
+    <input  asp-for="Nombre" type="text">
+    <button  type="submit">Ingresar</button>
+    </form>
+</div>

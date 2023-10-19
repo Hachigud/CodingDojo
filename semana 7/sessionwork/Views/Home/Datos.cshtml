@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model Usuario
+<div class="text-center" style="display: flex; flex-direction:column;">
+    <h1 class="display-4">Bienvenido(a) @Context.Session.GetString("UserName")</h1>
+    
+    <h1 id="Numero">@ViewBag.numero</h1>
+
+    <div class="botones">
+        <div>
+            <button style="background-color: yellow;" class="botonera" onclick="operacion('sumar')">+1</button>
+            <button style="background-color: blue;" class="botonera" onclick="operacion('restar')">-1</button>
+        </div>
+        <div>
+            <button style="background-color: red;" class="botonera" onclick="operacion('multiplicar')">x2</button>
+            <button style="background-color: green;" class="botonera" onclick="operacion('random')">+ Random</button>
+        </div>
+       
+    </div>
+</div>
