@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Formulario";
+}
+@model Formulario
+   <div class="Cuerpo">
+        <form action="/formulario" method="post">
+            
+
+                
+                <h3>Formulario</h3>
+
+                
+                <div class="form-group">
+                    <label class="col-md-12 control-label" asp-for="Nombre">Tu Nombre</label>
+                    <div class="col-md-12">
+                        <input  asp-for="Nombre" type="text" placeholder="Tu Nombre"
+                            class="form-control input-md">
+
+                    </div>
+                     <span class="ErrorMsg" asp-validation-for="Nombre"></span>
+                </div>
+
+                
+                <div class="form-group">
+                    <label class="col-md-12 control-label" asp-for="Dojo">Dojo Location</label>
+                    <div class="col-md-12">
+                        <select asp-for="Dojo" class="form-control">
+                            <option value="Chile">Chile</option>
+                            <option value="Peru">Peru</option>
+                        </select>
+                    </div>
+                     <span class="ErrorMsg" asp-validation-for="Dojo"></span>
+                </div>
+
+               
+                <div class="form-group">
+                    <label class="col-md-12 control-label" asp-for="Lenguaje">Lenguaje Favorito</label>
+                    <div class="col-md-12">
+                        <select  asp-for="Lenguaje" class="form-control">
+                            <option value="c#">C#</option>
+                            <option value="java">Java</option>
+                        </select>
+                    </div>
+                     <span class="ErrorMsg" asp-validation-for="Lenguaje"></span>
+                </div>
+
+                
+                <div class="form-group">
+                    <label class="col-md-12 control-label" asp-for="Comentario">Comentario ( Opcional)</label>
+                    <div class="col-md-12">
+                        <textarea class="form-control" 
+                            asp-for="Comentario" placeholder="Ingresa aqui tu comentario"></textarea>
+                    </div>
+                    <span class="ErrorMsg" asp-validation-for="Comentario"></span>
+                </div>
+
+                <div class="form-group">
+                    <button class="btn btn-primary" type="submit" value="submit">Enviar</button>
+                </div>
+            
+        </form>
+    </div>

@@ -1,0 +1,51 @@
+ @{
+    ViewData["Title"] = "Datos";
+}
+
+ @model Formulario
+ <div class="Cuerpo">
+        <form action="/">
+            
+
+                
+                <h3>Datos</h3>
+
+                
+                <div class="form-group">
+                    <label class="col-md-12 control-label" for="Nombre">Tu Nombre</label>
+                    <div class="col-md-12">
+                        <p>@Model.Nombre</p>
+
+                    </div>
+                </div>
+
+                
+                <div class="form-group">
+                    <label class="col-md-12 control-label" for="dojo">Dojo Location</label>
+                    <div class="col-md-12">
+                        <p>@Model.Dojo</p>
+                    </div>
+                </div>
+
+               
+                <div class="form-group">
+                    <label class="col-md-12 control-label" for="lenguaje">lenguaje Favorito</label>
+                    <div class="col-md-12">
+                        <p>@Model.Lenguaje</p>
+                    </div>
+                </div>
+
+                
+                <div class="form-group">
+                    <label class="col-md-12 control-label" for="comentario">Comentario ( Opcional)</label>
+                    <div class="col-md-12">
+                        <p>@Model.Comentario</p>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <button class="btn btn-primary" type="submit" value="submit">volver</button>
+                </div>
+            
+        </form>
+    </div>
