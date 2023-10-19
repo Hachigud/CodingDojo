@@ -1,0 +1,66 @@
+@{
+    ViewData["Title"] = "Datos";
+}
+
+@model Usuario
+<div class="text-center">
+
+  <h1>Registrado con exito!</h1>        
+  <h2>Tus datos son:</h2>
+
+                
+                <h3>Formulario</h3>
+
+                
+                <div class="form-group">
+                    <label class="col-md-12 control-label" asp-for="Nombre">Tu Nombre</label>
+                    <div class="col-md-12">
+                        <span>@Model.Nombre</span>
+
+                    </div>
+                    
+                </div>
+    
+
+                <div class="form-group">
+                    <label class="col-md-12 control-label" asp-for="Apellido">Tu Apellido</label>
+                    <div class="col-md-12">
+                       
+                        <span>@Model.Apellido</span>
+                    </div>
+                    
+                </div>
+
+               
+                  <div class="form-group">
+                    <label class="col-md-12 control-label" asp-for="Edad">Tu Edad</label>
+                    <div class="col-md-12">
+                        <span>@Model.Edad</span>
+
+                    </div>
+                     
+                </div>
+
+
+                 <div class="form-group">
+                    <label class="col-md-12 control-label" asp-for="Email">Tu Correo</label>
+                    <div class="col-md-12">
+                        <span>@Model.Email</span>
+
+                    </div>
+                     
+                </div>
+
+                <div class="form-group">
+                    <label class="col-md-12 control-label" asp-for="Password">Tu Clave</label>
+                    <div class="col-md-12">
+                        <span>SECRETA</span>
+
+                    </div>
+                 
+                </div>
+
+            
+
+
+</div>
