@@ -15,4 +15,7 @@ public class Formulario
 
     [MinLength(20, ErrorMessage="El comentario debe contener 20 o mas caracteres")]
     public string? Comentario {get;set;}
+
+    [FutureDate]
+    public string Fecha {get;set;}
 }
