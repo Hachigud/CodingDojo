@@ -1,0 +1,15 @@
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 7\Eruption\obj\Debug\net7.0\Eruption.csproj.AssemblyReference.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 7\Eruption\obj\Debug\net7.0\Eruption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 7\Eruption\obj\Debug\net7.0\Eruption.AssemblyInfoInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 7\Eruption\obj\Debug\net7.0\Eruption.AssemblyInfo.cs
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 7\Eruption\obj\Debug\net7.0\Eruption.csproj.CoreCompileInputs.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 7\Eruption\bin\Debug\net7.0\Eruption.exe
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 7\Eruption\bin\Debug\net7.0\Eruption.deps.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 7\Eruption\bin\Debug\net7.0\Eruption.runtimeconfig.json
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 7\Eruption\bin\Debug\net7.0\Eruption.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 7\Eruption\bin\Debug\net7.0\Eruption.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 7\Eruption\obj\Debug\net7.0\Eruption.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 7\Eruption\obj\Debug\net7.0\refint\Eruption.dll
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 7\Eruption\obj\Debug\net7.0\Eruption.pdb
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 7\Eruption\obj\Debug\net7.0\Eruption.genruntimeconfig.cache
+C:\Users\Lionx\Desktop\Cosas\cursos\codingDojo\bootcamp\semana 7\Eruption\obj\Debug\net7.0\ref\Eruption.dll
