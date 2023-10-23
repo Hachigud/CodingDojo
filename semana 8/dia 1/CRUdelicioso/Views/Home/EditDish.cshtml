@@ -1,0 +1,77 @@
+@{
+    ViewData["Title"] = "Editar";
+}
+
+@model Dish
+<div class="text-center">
+    <h1 class="display-4">@Model.Name</h1>
+    <a asp-controller="Home" asp-action="Index">HOME</a> <span>|</span> <a  style="font-weight: bold;"  >Add a Dish</a>
+</div>
+
+
+     <form asp-action="editform" method="post" asp-route-DishId="@Model.DishId">
+            
+
+                
+                <h3>Formulario</h3>
+
+                
+                <div class="form-group">
+                    <label class="col-md-12 control-label" asp-for="Name">Plato</label>
+                    <div class="col-md-12">
+                        <input  asp-for="Name" type="text" placeholder="Nombre"
+                            class="form-control input-md">
+
+                    </div>
+                     <span class="ErrorMsg" asp-validation-for="Name"></span>
+                </div>
+    
+
+                <div class="form-group">
+                    <label class="col-md-12 control-label" asp-for="Chef">Chef</label>
+                    <div class="col-md-12">
+                        <input  asp-for="Chef" type="text" placeholder="Chef"
+                            class="form-control input-md">
+
+                    </div>
+                     <span class="ErrorMsg" asp-validation-for="Chef"></span>
+                </div>
+
+               
+                  <div class="form-group">
+                    <label class="col-md-12 control-label" asp-for="Tastiness">Tastiness</label>
+                    <div class="col-md-12">
+                        <input type="number" asp-for="Tastiness" type="text" placeholder="Tastiness"
+                            class="form-control input-md">
+
+                    </div>
+                     <span class="ErrorMsg" asp-validation-for="Tastiness"></span>
+                </div>
+
+
+       
+                <div class="form-group">
+                    <label class="col-md-12 control-label" asp-for="Calories">Calories</label>
+                    <div class="col-md-12">
+                        <input type="number" asp-for="Calories" type="text" placeholder="Calories"
+                            class="form-control input-md">
+
+                    </div>
+                     <span class="ErrorMsg" asp-validation-for="Calories"></span>
+                </div>
+
+
+
+              <div class="form-group">
+                    <label class="col-md-12 control-label" asp-for="Description">Description</label>
+
+                            <textarea asp-for="Description" id="" cols="20" rows="5"   class="form-control input-md"></textarea>
+                    </div>
+                     <span class="ErrorMsg" asp-validation-for="Description"></span>
+                </div>
+
+                <div class="form-group">
+                    <button class="btn btn-primary" type="submit" value="submit">Editar</button>
+                </div>
+            
+        </form>
