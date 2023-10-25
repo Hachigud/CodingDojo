@@ -1,0 +1,68 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model User
+@if(Context.Session.GetString("Email") == null){
+<div style="display: flex; justify-content:space-around;">
+    <div>
+        <h1>Register</h1>
+
+        <form action="users/create" method="post">
+
+            <div>
+                <label asp-for="FirstName">Name</label>
+                <input type="text" asp-for="FirstName">
+                 <span class="ErrorMsg" asp-validation-for="FirstName"></span>
+            </div>
+           
+            <div>
+                <label asp-for="LastName">Last Name</label>
+                <input type="text" asp-for="LastName">
+                 <span class="ErrorMsg" asp-validation-for="LastName"></span>
+            </div>
+            <div>
+                <label asp-for="Email">Email</label>
+                <input type="email" asp-for="Email">
+                 <span class="ErrorMsg" asp-validation-for="Email"></span>
+            </div>
+
+            <div>
+                <label asp-for="Password">Clave</label>
+                <input type="password" asp-for="Password">
+                 <span class="ErrorMsg" asp-validation-for="Password"></span>
+            </div>
+             <div>
+                <label  asp-for="PasswordConfirm">Repetar Password</label>
+                <input type="password" asp-for="PasswordConfirm">
+                 <span class="ErrorMsg" asp-validation-for="PasswordConfirm"></span>
+            </div>
+
+
+            <button>Registrar</button>
+        </form>
+    </div>
+    
+    <div>
+        <h1>Login</h1>
+
+        <form action="procesa/login" method="post">
+            <div>
+                <label asp-for="Email">Email</label>
+                <input type="text" asp-for="Email">
+                <span class="ErrorMsg" asp-validation-for="Email"></span>
+            </div>
+            <div>
+                <label asp-for="Password">Clave</label>
+                <input type="password" asp-for="Password">
+                <span class="ErrorMsg" asp-validation-for="Password"></span>
+            </div>
+            <button>Login</button>
+        </form>
+    </div>
+  
+</div>
+  }else{
+    <a  asp-controller="Home" asp-action="Logout">LOGOUT</a>
+    <h1>SUCCESS</h1>
+    <span>BIENVENIDO</span> @Context.Session.GetString("Email");
+  }
