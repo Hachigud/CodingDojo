@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+@model List<Dish>
+<div class="text-center">
+    <h1 class="display-4">Welcome To CRUDelicius</h1>
+    <a style="font-weight: bold;">HOME</a> <span>|</span>  <a asp-controller="Home" asp-action="Chefs">Chefs</a>  <span>|</span> <a asp-controller="Home" asp-action="AddFish">Add a Dish</a> <span>|</span> <a asp-controller="Home" asp-action="AddChef">Add a Chef</a>
+</div>
+
+<div style="width: 400px;">
+    <h3> Check out some recent dishes</h3>
+    <hr>
+    
+        <table>
+            <thead>
+                <tr>
+                    <th class="tg-0pky">Name</th>
+                    <th class="tg-0pky">Chef</th>
+                    <th class="tg-0pky">Tastiness</th>
+                    <th class="tg-0pky">Calories</th>
+                    
+                </tr>
+            </thead>
+        <tbody>
+           
+            @foreach (Dish dishes in @Model){
+                <tr>
+                <td><a asp-controller="Home" asp-action="InfoDish" asp-route-id="@dishes.DishId">@dishes.Name</a></td>    
+                <td>@dishes.Chef</td> 
+                <td>@dishes.Tastiness</td> 
+                <td>@dishes.Calories</td> 
+                </tr>
+            }
+          
+        </tbody>
+        </table>
+
+    
+</div>
